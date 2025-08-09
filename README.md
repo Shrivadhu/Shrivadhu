@@ -35,14 +35,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-- [**Women Safety Alert System**](https://github.com/Shrivadhu/women-safety-alert) — SOS Alerts, Live Tracking, AI Chatbot  
-- [**AI-Based Congestion Control**](https://github.com/Shrivadhu/congestion-control) — RL-driven traffic optimization  
-- [**Online Clothing Delivery Startup**](https://github.com/Shrivadhu/virtual-try-on) — AR fitting & fast delivery  
-- [**Node.js School Management API**](https://github.com/Shrivadhu/school-management-api) — Backend with Express.js + MySQL  
-
----
-
 ## 🎯 Fun Facts  
 - I love building projects that combine **AI + real-world problem solving**  
 - Currently exploring **AI for public safety & traffic management**  
