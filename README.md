@@ -12,21 +12,6 @@
 
 ---
 
-## 🌐 Connect With Me  
-<div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/YOUR-DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</div>
-
----
-
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shrivadhu&theme=dracula" height="150"/>
