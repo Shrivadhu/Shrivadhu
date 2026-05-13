@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Shrivadhu — Building Tech That Matters 🚀</h1>
 <p align="center">
-💻 CSE Student | 🚀 Full-Stack & AI Enthusiast | 🛡 Women Safety & Smart City Innovator  
+💻 CSE Student | 🚀 Full-Stack & AI Enthusiast |
 </p>
 
 ---
@@ -22,7 +22,6 @@
 
 ## 🎯 Fun Facts  
 - I love building projects that combine **AI + real-world problem solving**  
-- Currently exploring **AI for public safety & traffic management**  
 - Outside of coding: 📸 Photography, 🎵 Music, 🚴 Biking  
 
 ---
