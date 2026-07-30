@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrivadhu&show_icons=true&theme=dracula&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shrivadhu&theme=dracula&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrivadhu&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Shrivadhu&theme=dracula&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
